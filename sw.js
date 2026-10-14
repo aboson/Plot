@@ -1,5 +1,5 @@
 // Service Worker: macht Plot installierbar und startet die App auch ohne Netz.
-const VERSION = 'plot-v1';
+const VERSION = 'plot-v2';
 const FONTS = 'plot-fonts';
 const SHELL = [
   './',
